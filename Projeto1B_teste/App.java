@@ -12,6 +12,7 @@ public class App {
         System.out.println("Categoria: " + p.classifica());
         //mudança
         //teste de pull
+        //teste 2
         in.close();
     }
     
