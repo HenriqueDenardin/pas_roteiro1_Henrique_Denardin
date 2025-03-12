@@ -11,6 +11,7 @@ public class App {
         System.out.println(p.toString());
         System.out.println("Categoria: " + p.classifica());
         //mudança
+        //teste de pull
         in.close();
     }
     
