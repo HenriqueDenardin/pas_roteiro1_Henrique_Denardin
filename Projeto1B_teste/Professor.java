@@ -1,5 +1,5 @@
 package Projeto1B_teste;
-
+//bug resolvido
 public class Professor {
     private String nome;
     private int anosExperiencia;
